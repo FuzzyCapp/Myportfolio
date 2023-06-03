@@ -1,0 +1,39 @@
+body {
+text-align: center;    
+background-color:lightblue;
+}
+
+h1 {
+font-size:40px; 
+font-family: 'Franklin Gothic Medium';
+font-weight:300;   
+
+}
+
+.line {
+height: 6px;
+background-color: black;
+width: 70px;
+margin:8px auto;    
+}
+
+#app{
+background-color: cadetblue; 
+margin-left: 150px;
+margin-right: 150px;
+border-radius: 20px;
+}
+
+#games{
+background-color: aquamarine;
+margin-left: 150px;
+margin-right: 150px;
+border-radius: 20px;
+}
+
+#chatbot {
+    background-color: aqua;
+    margin-left: 150px;
+margin-right: 150px;
+border-radius: 20px;
+}
